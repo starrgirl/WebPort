@@ -145,4 +145,6 @@ h5{  width: 20vw; display: block; border-width:2px; color: #ffffff; border-radiu
 }
 
 
-.Contact{background-color: #000000; position: relative; display: block; width: 100vw; height: 12vh;}
+.Contact{text-align: center; background-color: #000000; position: relative; display: block; width: 100vw; height: 12vh;}
+.Contact a{font-size: 1.9rem; font-weight: 300; color: white; line-height: 10rem;}
+.Contact a:hover{color: #908BFC;}
